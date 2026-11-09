@@ -12,4 +12,9 @@
    **It was interesting to see how to apply reinforcement learning to drones so that they can make up for physical degradation. The most common experiment I saw across different papers was motor failure, and there were several different ways to train the drone to compensate for it, such as using external sensors or image data. Our focus is on whether a drone can adapt to degradation using exclusively drone state data, such as position, velocity, and any other data collected through a drone's interial measurement unit.**
 
 2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.
-   **So far, we have 26 pieces of data that a policy looks at for every timestep for an update.**
+   **So far, we have 26 pieces of data that a policy looks at for every timestep for an update. **
+
+3.
+
+4. What other techniques would you be interested in using in your project?
+   **So far, our focus is on the four different controller/RL algorithm combinations and comparing the performance of each against each other. We have a basic, uniform, **
